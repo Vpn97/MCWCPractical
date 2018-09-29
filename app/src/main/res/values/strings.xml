@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">MCWCPractical</string>
+
+
+    <string-array name="contry">
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>China</item>
+        <item>UAS</item>
+        <item>Canada</item>
+        <item>UK</item>
+        <item>Japan</item>
+        <item>Shreelanka</item>
+        <item>Bangladesh</item>
+        <item>Nepal</item>
+        <item>Bhutan</item>
+        <item>Israel</item>
+        <item>Afghanishtan</item>
+        <item>Rusia</item>
+    </string-array>
+
+
+    <string-array name="states">
+        <item>Select State</item>
+        <item>Gujrat</item>
+        <item>Maharashtra</item>
+        <item>Madhyapradesh</item>
+        <item>Rajsthan</item>
+        <item>Hariyana</item>
+        <item>Panjab</item>
+        <item>Jammu Kashmir</item>
+        <item>Utter Pradesh</item>
+        <item>Karnatak</item>
+        <item>Keral</item>
+        <item>Tamilnadu</item>
+        <item>Andhrapradesh</item>
+        <item>Aasam</item>
+        <item>Utrakhand</item>
+        <item>Zarkhand</item>
+    </string-array>
+
+    <string-array name="menu">
+        <item>Java</item>
+        <item>Python</item>
+        <item>Android</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>Js</item>
+        <item>PHP</item>
+        <item>.Net</item>
+    </string-array>
+
+
+    <string-array name="car_company">
+        <item>Audi</item>
+        <item>BMD</item>
+        <item>Bugati</item>
+        <item>Jaguar</item>
+        <item>Lamborgini</item>
+        <item>Land Rover</item>
+    </string-array>
+
+    <string-array name="car_model">
+        <item>Audi A4</item>
+        <item>BMD X5</item>
+        <item>Bugatii Chiron</item>
+        <item>Jaguar XE</item>
+        <item>Lamborgini Aventador</item>
+        <item>Land Rover Evoque</item>
+    </string-array>
+
+
+</resources>
